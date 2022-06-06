@@ -1,5 +1,5 @@
-# IslayTouchManuals
+# 😸📓IslayTouchManuals
 
 
 
-😸📓Instructional materials used in CoderDojo (currently available only in Japanese). 
+Instructional materials used in CoderDojo (currently available only in Japanese). 
